@@ -26,8 +26,11 @@
  ## Retorno do Servidor Tomcat
  
  ![B](https://user-images.githubusercontent.com/72419533/156898173-089c911e-df0d-465d-a388-9c911917f221.PNG)
+ 
+ Nota: Pode-se observar que o atributo criado em MyListener foi associado a request inicializada.
 
 
+<h1> Repositório criado para fins de estudo 📓 </h1> 
  
  
 
