@@ -17,6 +17,20 @@
 
 ![5555](https://user-images.githubusercontent.com/72419533/156897991-f0396d74-1ad5-4670-8daf-146dd714e384.png)
 
+ # Testando o projeto
+ 
+ ## Acessando a URL Teste
+ 
+ ![A](https://user-images.githubusercontent.com/72419533/156898161-cc16f23f-a039-49cf-bedb-cfb393e73d11.PNG)
+ 
+ ## Retorno do Servidor Tomcat
+ 
+ ![B](https://user-images.githubusercontent.com/72419533/156898173-089c911e-df0d-465d-a388-9c911917f221.PNG)
+
+
+ 
+ 
+
 
 
 
